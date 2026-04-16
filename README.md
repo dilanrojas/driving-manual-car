@@ -169,7 +169,7 @@
 #### 1. Señales de reglamentación
   Indican obligaciones, prohibiciones o normativas. En su mayoría de forma rectangular, fondo blanco, con símbolos, letras de color negro y círculo rojo que rodeo el símbolo.
 
-![Señales de reglamentación](./images/senales_reglamentacion.png)
+<img src="./images/senales_reglamentacion.png" alt="Señales de reglamentación" height="500" />
 
 # Capítulo III
 # Capítulo IV
