@@ -169,17 +169,17 @@
 #### 1. Señales de reglamentación
   Indican obligaciones, prohibiciones o normativas. En su mayoría de forma rectangular, fondo blanco, con símbolos, letras de color negro y círculo rojo que rodeo el símbolo.
 
-<img src="./images/senales_reglamentacion.png" alt="Señales de reglamentación" height="300" />
+<img src="./images/senales_reglamentacion.png" alt="Señales de reglamentación" height="330" />
 
 #### 2. Señales de prevención
   Estas señales cumplen la función de advertir sobre peligros u obstáculos reales o potenciales en la vía. Se caracterizan generalmente por su forma cuadrada con fondo amarillo y símbolos negros, aunque cambian a un fondo naranja y una ubicación temporal cuando se utilizan específicamente para alertar sobre zonas de obras.
 
-<img src="./images/senales_prevencion.png" alt="Señales de prevención" height="300" />
+<img src="./images/senales_prevencion.png" alt="Señales de prevención" height="330" />
 
 #### 3. Señales de información
   Su propósito es orientar y facilitar información útil al usuario para que transite de forma segura y directa. Sus características varían según el entorno: en carreteras principales son grandes con fondo verde y letras blancas, mientras que en rutas secundarias suelen tener fondo blanco con detalles en negro. Asimismo, las señales de servicio y turismo utilizan fondo azul, las de áreas silvestres o parques nacionales son café, y cualquier señal informativa que incluya una barra roja inclinada indica una prohibición.
 
-<img src="./images/senales_informacion.png" alt="Señales de información" height="300" />
+<img src="./images/senales_informacion.png" alt="Señales de información" height="330" />
 
 ### Señales horizontales
   Marca de pintura de color amarillo o blanco sobre la superficie de rodamiento. En algunos casos se utiliza para complementar las órdenes de otras señales.
@@ -190,40 +190,40 @@
 
 #### Demarcaciones más frecuentes sobre la vía
   - **Línea de centro**: Ordena el tránsito en sentidos diferentes. Es de color amarillo. En línea continua no se adelanta.
-<img src="./images/linea_centro.png" alt="Línea de centro" height="100" />
+<img src="./images/linea_centro.png" alt="Línea de centro" height="150" />
 
   - **Línea de barrera**: Utilizada en lugares donde no se permite adelantar. Se demarca con una línea continua camarilla junto con otra ya sea continua o discontinua. Se complementa con **captaluces amarillos**.
-<img src="./images/linea_barrera.png" alt="Línea de barrera" height="160" />
+<img src="./images/linea_barrera.png" alt="Línea de barrera" height="190" />
 
   - **Línea de carril o línea de vía**: Ordena carriles en el mismo sentido. Demarcada de color blanco. Continua o discontinua. Se complementa con **captaluces blancos**.
-<img src="./images/linea_carril.png" alt="Línea de Carril" height="100" />
+<img src="./images/linea_carril.png" alt="Línea de Carril" height="150" />
 
   - **Línea de borde**: Separa la calzada con el espaldón o el caño. Guía al conductor a no salir de la calzada. Es continua de color blanco. Usa **captaluces rojos o blancos**.
-<img src="./images/linea_borde.png" alt="Línea de borde" height="160" />
+<img src="./images/linea_borde.png" alt="Línea de borde" height="190" />
 
   - **Línea de canalización**: Guía a vehículos que desean virar a la izquierda. Línea blanca continua.
-<img src="./images/linea_canalizacion.png" alt="Línea de canalización" height="160" />
+<img src="./images/linea_canalizacion.png" alt="Línea de canalización" height="190" />
 
   - **Isla de canalización**: Ordena el tránsito en zonas conflictivas. Elimina el sobreancho de la calzada. Su color depende del sentido de circulación: blanco o amarillo.
-<img src="./images/isla_canalizacion.png" alt="Isla de canalización" height="160" />
+<img src="./images/isla_canalizacion.png" alt="Isla de canalización" height="190" />
 
   - **Carril reversible**: Regulado por horarios y por semáforo. Se demarca en la franja central de la carretera.
-<img src="./images/carril_reversible.png" alt="Carril reversible" height="160" />
+<img src="./images/carril_reversible.png" alt="Carril reversible" height="190" />
 
   - **Cajón o caja amarilla**: Prohibición de bloqueo en intersecciones.
-<img src="./images/caja_amarilla.png" alt="Cajón o caja amarilla" height="160" />
+<img src="./images/caja_amarilla.png" alt="Cajón o caja amarilla" height="190" />
 
 ### Señales luminosas
   Mediante luces, brinda información importante.
 
   - **Semáforo vehicular**: Rojo indica al conductor que debe detenerse; Amarillo indica avisa camio a luz roja para disminuir velocidad; verde indica al conductor que puede continuar.
-<img src="./images/semaforo_vehicular.png" alt="Semáforo vehicular" height="80" />
+<img src="./images/semaforo_vehicular.png" alt="Semáforo vehicular" height="130" />
 
   - **Señal luminosa transitoria**: informa sobre situaciones temporales previniendo el riesgo.
-<img src="./images/senal_luminosa_transitoria.png" alt="Señal luminosa transitoria" height="80" />
+<img src="./images/senal_luminosa_transitoria.png" alt="Señal luminosa transitoria" height="130" />
 
   - **Semáforo peatonal**: cuenta con dos luces: roja indica no pasar; verde indica que puede cruzar.
-<img src="./images/semaforo_peatonal.png" alt="Semáforo peatonal" height="80" />
+<img src="./images/semaforo_peatonal.png" alt="Semáforo peatonal" height="130" />
 
 ### Señalamiento sonoro
   Advierten de situaciones de peligro.
