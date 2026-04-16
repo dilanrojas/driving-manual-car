@@ -193,7 +193,7 @@
 <img src="./images/linea_centro.png" alt="Línea de centro" height="150" />
 
   - **Línea de barrera**: Utilizada en lugares donde no se permite adelantar. Se demarca con una línea continua camarilla junto con otra ya sea continua o discontinua. Se complementa con **captaluces amarillos**.
-<img src="./images/linea_barrera.png" alt="Línea de barrera" height="190" />
+<img src="./images/linea_barrera.png" alt="Línea de barrera" height="230" />
 
   - **Línea de carril o línea de vía**: Ordena carriles en el mismo sentido. Demarcada de color blanco. Continua o discontinua. Se complementa con **captaluces blancos**.
 <img src="./images/linea_carril.png" alt="Línea de Carril" height="150" />
