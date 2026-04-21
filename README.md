@@ -242,5 +242,138 @@
   - En pasos peatonales localizadas alrededor de planteles educativos con estudiantes presentes y centros de salud, el límite será de 25km/h
 
 # Capítulo III
+
+## Panel de control o Panel de instrumentos
+  Pantalla ubicada frente al conductor que muestra la velocidad, revoluciones del motor y temperatura, entro otros. Permite ver la información necesaria para conducir de forma segura, sin desviar la mirada de la carretera por mucho tiempo.
+
+### Colores de los símbolos
+  - **Rojo**: Atender de inmediato. Ej: Puerta abierta.
+  - **Verde**: Sobre aspectos informativos. Ej: Direccionales.
+  - **Amarillo (ámbar)**: Atienda al detenerse. Ej: Check engine (motor)
+
+### Funcionamiento del vehículo
+  - **Tacómetro**: Mide la velocidad de rotación del motor en revoluciones por minuto (RPM).
+<img src="./images/tacometro.png" alt="Tacometro" height="150" />
+
+  - **Nivel de combustible**: Cuando el nivel es bajo, se enciende una luz ámbar.
+<img src="./images/nivel_combustible.png" alt="Nivel combustible" height="150" />
+
+  - **Temperatura del motor**: Después del arranque, debe estar cerca de la parte baja (letra C) y conforme se empieza a conducir, el indicador irá subiendo hasta ubicarse en el centro de la escala. Si este continua subiendo, podría ser un indicador de que ocurre un problema. Cerca de la letra H, se debe detener el vehículo de inmediato y llevar a revisión.
+<img src="./images/temperatura_motor.png" alt="Temperatura del motor" height="150" />
+
+  - **Estado de la batería**: Este símbolo muestra si el alternador está cargando la batería. No indica si la batería está en mal estado.
+<img src="./images/estado_bateria.png" alt="Estado de la batería" height="150" />
+
+### Indicadores para la conducción en carretera
+  - **Indicador de velocidad**: Muestra la velocidad del vehículo en km/h. Según Ley 9078, todos los vehículo deben este indicador en km/h.
+<img src="./images/indicador_velocidad.png" alt="Indicador velocidad" height="150" />
+
+  - **Indicador de distancia recorrida (odómetro)**: Odómetro o cuentakilómetros, mide la distancia recorrida por el automóvil.
+<img src="./images/odometro.png" alt="Odómetro" height="150" />
+
+### Palanca de cambios en vehículos automáticos
+Indica el modo de desplazamiento, como lo siguiente:
+  - **P**: Estacionar y sacar la llave de ignición.
+  - **R**: Mover el vehículo en reversa.
+  - **D**: Para avanzar.
+  - **L1**: Confeccionada para ofrecer mayor potencia al motor. Para enfrentar pendientes tanto en ascenso como en descenso.
+  - **S (modo deportivo)**: Para carreteras con muchas curvas.
+  - **L2**: Ofrece mayor potencia. Utilizada en pendientes menos pronunciadas.
+
+### Señales de alarma
+  - **Nivel de aceite bajo**: Señala cuando el aceite del cárter está por debajo de lo normal.
+<img src="./images/nivel_aceite.png" alt="Nivel aceite" height="150" />
+
+  - **Presión de aceite**: Se muestra en un manómetro. Se encuentra especialmente en vehículos de carga liviana, algunos otros no lo tienen.
+<img src="./images/presion_aceite.png" alt="Presion de aceite" height="150" />
+
+  - **Temperatura alta del motor**: Si el motor se sobrecalienta, es importante deteneser de inmediato.
+<img src="./images/temperatura_motor_2.png" alt="Temperatura del motor" height="150" />
+
+  - **Revistar motor (check engine)**:
+    - **Luz intermitente**: una falla que se arregló (se puede revisar con scanner posteriormente).
+    - **Luz permanente**: falla relacionada con rendimiento, afecta consumo de combustible.
+    - **Luz parpadeante**: atender de inmediato, puede agravarse y perjudicar otros aspectos del vehículo.
+<img src="./images/check_engine.png" alt="Check engine" height="150" />
+
+  - **Funcionamiento del ABS**: se activa cuando uno o varios sensores del sistema no funcionan correctamente. Se debe realizar mantenimiento correctivo lo antes posible.
+<img src="./images/funcionamiento_abs.png" alt="Funcionamiento ABS" height="150" />
+
+## Espejos retrovisores y su uso
+
+### Espejo central
+- Uso correcto: visualizar el entorno trasero a través de la ventana trasera.
+  - Permite ver lo que hay detrás del vehículo.
+  - Ayuda en maniobras de reversa y conducción activa.
+  - Ubicado en la parte superior de la cabina, centrado entra las viseras o parabrisas.
+<img src="./images/espejo_central.png" alt="Espejo central" height="150" />
+
+### Espejos laterales
+  - Proporcionan visibilidad hacia atrás y una amplia perspectiva de los lados del vehículo.
+  - Ayuda en maniobras de adelantamiento, reversa y en la entrada/salida de vías.
+  - Se recomienda ajustar para ver solo la manija de la puerta trasera.
+  - No ver la manija de la puerta trasera indica un ángulo de visión muy abierto, generando un punto ciego.
+<img src="./images/espejo_lateral.png" alt="Espejo lateral" height="150" />
+
+### Espejos de ojo de pescado
+  - Permiten una visión panorámica ampliada.
+  - Detectan maniobras de otros conductores antes de ser visibles en el espejo lateral principal.
+<img src="./images/espejo_ojo_pescado.png" alt="Espejo ojo pescado" height="150" />
+
+## Luces para ver y su uso correcto
+
+### Luz alta (larga)
+  - Se cuenta con dos o cuatro.
+  - Proyectan luz hasta a 100m.
+  - Usar con precaución para no deslumbrar a otros.
+<img src="./images/luz_alta.png" alt="Luz alta" height="150" />
+
+### Luz baja (corta)
+  - Se cuenta con dos luces.
+  - Permite ver hasta 30m.
+  - Uso obligatorio entre las 6:00 p.m. y las 6:00 a.m. o en condiciones de poca visibilidad.
+<img src="./images/luz_baja.png" alt="Luz baja" height="150" />
+
+### Luz antiniebla (halógenos)
+  - Se cuenta con dos o cuatro luces antiniebla blancas o amarillas.
+  - Uso permitido solo en condiciones climáticas adversas.
+<img src="./images/luz_antiniebla.png" alt="Luz antiniebla" height="150" />
+
+## Luces para ser vistos y su uso correcto
+
+### Luces de posición
+  - Se encienden con la luz alta, baja o antiniebla.
+  - Indican el ancho y la posición del vehículo desde 150m
+  - Son blancas o amarillas adelante y rojas atrás.
+<img src="./images/luz_posicion.png" alt="Luz posición" height="150" />
+
+### Dispositivos catadióptricos (reflectivos)
+  - Reflejan la luz para hacer visible el vehículo cuando está apagado.
+  - Son de color rojo, ubicados en la parte trasera.
+<img src="./images/dispositivos_reflectivos.png" alt="Dispositivos catadióptricos" height="150" />
+
+### Luz de circulación diurna
+  - Mejora la visibilidad del vehículo durante el día.
+  - Reduce el riesgo de accidentes en un 5%.
+<img src="./images/luz_diurna.png" alt="Luces diurnas" height="150" />
+
+## Los frenos y su importancia
+
+### Freno de tambor
+  - Sus componentes están dentro de un tambor que gira con el eje de las ruedas.
+  - Al accionar el pedal, las zapatas presionan contra el tambor, generando fricción y deteniendo el vehículo.
+  - Tienen menor ventilación, por lo que son más propensos a calentarse y perder efectividad.
+
+### Freno de disco
+  - Opera por fricción entre las pastillas de frenado y un disco.
+  - El disco está expuesto al aire, lo que permite mejor ventilación.
+  - Menos propensos a fatiga por altas temperaturas.
+  - Más comunes en el eje delantero y preferidos por su mejor rendimiento.
+
+### Sistema ABS
+  - Su sistema antibloqueo mejor la seguridad activa del vehículo.
+  - Permite frenar y cambiar de trayectoria.
+  - Frenado suave y evita el derrape.
+
 # Capítulo IV
 # Capítulo V
