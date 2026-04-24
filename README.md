@@ -1,9 +1,9 @@
-# Capítulo I
+# Capítulo I: Conceptos y Generalidades para una Conducción Segura
 
-## ¿Qué es conducir?
+## Concepto de conducción
   Manejar un vehículo por la vía pública, conociendo el sistema vial y lo que lo conforma.
 
-## ¿Cuáles son los tipos de conductores?
+## Tipos de conductores
   - **Novato**: Conductor con licencia de primera vez y menos de tres años de experiencia.
   - **Profesional**: Persona cuya actividad laboral principal es la conducción de vehículos de transporte o quien posea licencia con acreditación profesional.
   - **No tipificado**: Conductor que renueva su licencia. Es decir, con más de 3 años de haberlo obtenida.
@@ -153,7 +153,7 @@
   * **Causas:** Eventos festivos, trabajos en la vía o situaciones especiales.
   * **Señalización:** Se utilizan conos, barreras y la guía de la Policía de Tránsito. Estos cambios suelen ser de corta duración (pocas horas).
 
-# Capítulo II
+# Capítulo II: Señalamiento Vial
 
 ## ¿Qué son las señales de tránsito?
   Normas que ordenan el espacio vial, garantizando el desplazamiento seguro para los conductores, pasajeros y peatones.
@@ -241,7 +241,7 @@
   - Sin demarcación, el límite máximo será 60km/h. En zona rural de alta densidad poblacional, será de 50km/h.
   - En pasos peatonales localizadas alrededor de planteles educativos con estudiantes presentes y centros de salud, el límite será de 25km/h
 
-# Capítulo III
+# Capítulo III: Vehículos Seguros: Características y Elementos de Seguridad del Vehículo
 
 ## Panel de control o Panel de instrumentos
   Pantalla ubicada frente al conductor que muestra la velocidad, revoluciones del motor y temperatura, entro otros. Permite ver la información necesaria para conducir de forma segura, sin desviar la mirada de la carretera por mucho tiempo.
@@ -375,5 +375,108 @@ Indica el modo de desplazamiento, como lo siguiente:
   - Permite frenar y cambiar de trayectoria.
   - Frenado suave y evita el derrape.
 
-# Capítulo IV
+# Capítulo IV: Conducción y Maniobras Seguras en Carretera
+
+## Previo al abordaje y la preparación del viaje
+
+### Asiento del conductor
+  Al menos 20 cm entre su pecho y el volante.
+
+### Apoyacabezas
+  Alinear la parte central a la altura de sus orejas.
+
+### Cinturón de seguridad
+  El cinturón absorbe la mayor parte de las fuerzas que recibe el cuerpo en caso de un choque.
+  - **En mujeres embarazadas**: colocar la banda horizontal sobre la pelvis y la diagonal sobre el hombro, pasando entre los senos.
+
+### Sujeción del volante
+  Mantener ambas manos en el volante en la posición "diez horas con diez minutos" (10:10).
+
+## La conducción en la via
+
+### Adelantar motocicletas o bicicletas
+  Deje espacio lateral mínima de 1.50 metros
+
+### Vehículo en sentido contrario adelantando
+  Si ve un vehículo en sentido contrario que está adelantando debe:
+  - Disminuir la velocidad.
+  - Hacer cambio de luces.
+  - Orillarse hacia el espaldón de la vía.
+  - Detenerse de ser necesario.
+
+## Maniobra marcha atrás (reverva)
+
+### Pasos
+  - Encienda las luces antes de iniciar la maniobra.
+  - Use los retrovisores siempre.
+  - Mantenga una velocidad baja, no más de 20 km/h.
+  - La reversa debe ser siempre en línea recta.
+
+> [!NOTE]
+> La marcha atrás solo está permitida en tramos cortos, no mayores a 50 metros. La infracción a esta regla conlleva una multa categoría D
+
+## Frenado seguro
+
+### Eficacia del frenado
+  Capacidad que tiene el sistema de freno para responder de manera adecuada a la acción de frenar. Se mide en la distancia que necesita un vehículo para detenerse de acuerdo a su velocidad y peso.
+
+## Intersecciones
+  Siempre tiene prioridad la persona que circula por la vía principal, pero debe prestar atención a las señales.
+
+### Tipos de intersecciones
+  - **A nivel**: pueden tener señales o semáforos.
+  - **Elevadas**: un camino pasa por encima o debajo del otro.
+  - **Con rotondas**: el tránsito circula en un círculo alrededor de una isla central.
+
+#### Intersecciones no señalizadas
+  Quien tiene prioridad, debe seguir la regla de la ley de tránsito. Esta regla dice que el vehículo a su derecha tiene el paso.
+
+> [!NOTE]
+> Giro a la derecha tiene prioridad uno.
+
+
+### Rotondas
+  - Velocidad máxima: 30 km/h
+  - Indicar intención de ingresar con direccional izquierdo. Si abandona en la primer salida, utilizar direccional derecho
+  - Mantenga el direccional izquierdo en la rotonda y cambie al derecho solo para salir.
+  - Se prohíbe cambiar de carril dentro.
+  - No se puede adelantar.
+  - Use el carril derecho (externo) si abandona en la primera o segunda salida.
+  - Use el carril izquierdo (interno) si abandona en la segunda salida o posteriores.
+
+## Circulación por puentes y túneles
+  - En túneles, siempre debe llevar las luces encendidas, y circular a máximo de 30 km/h.
+  - Si tiene una emergencia, coloque los triángulos preventivos al menos 90 metros detrás del vehículo.
+
+## Conducción nocturna
+
+### Consejos
+  - La luz alta debe cambiarse por la corta 150m antes de cruzarse con otro vehículo o antes de una curva.
+  - Las luces deben ser visibles a 250m de distancia.
+
+## Conducción en carreteras de velocidad (autopistas)
+
+### Recomendaciones
+  - Si ingresa desde una calle lateral, deténgase con la señal de alto o ceda. Si no hay señal, actué como si hubiera una señal de alto.
+  - Una vez en la autopista, acelere rápidamente hasta alcanzar la velocidad máxima permitida.
+  - Manténgase en el carril derecho hasta alcanzar la velocidad máxima.
+
+## Puestos de control o de Peje
+
+### Peajes
+  - Disminuya la velocidad hasta un máximo de 30 km/h
+  - Observe el señalamiento luminoso o vertical para ubicarse en el carril correcto.
+
+### Puestos de control policial
+  - Si le piden detenerse, encienda las luces de emergencia y tenga a mano toda la documentación necesaria del vehículo y la suya.
+
+## Velocidades Máximas y Mínimas
+
+### Velocidad Máxima permitida en autopistas
+  - En las carreteras de velocidad, esta varía entre 80 y 100  km/h
+
+### Velocidad mínima permitida
+  - En autopista, es de 50 km/h
+  - En algunas carreteras puede estar señalizada a 40 km/h
+
 # Capítulo V
