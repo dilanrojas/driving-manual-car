@@ -479,4 +479,32 @@ Indica el modo de desplazamiento, como lo siguiente:
   - En autopista, es de 50 km/h
   - En algunas carreteras puede estar señalizada a 40 km/h
 
-# Capítulo V
+# Capítulo V: Seguridad Vial, Factores de Riesgo y Prevención de Accidentes de Tránsito
+
+## Seguridad pasiva del vehículo
+  Dispositivos sobre los cuales el conductor no debe ejercer ninguna acción para activarlos.
+
+  > [!NOTE]
+  > En una colisión, el pasajero recibe una fuerza equivalente entre 3000 y 4000 kg. Un niño de 20 kg (5 años), en caso de no llevar el cinturón colocado, impactaría con el parabrisas con una fuerza de 500 kg, si el vehículo viaja apenas a 50 km/h
+
+  Algunos de los dispositivos de seguridad pasiva son:
+
+### Cinturón de seguridad
+  - El más común es el de tres puntos.
+  - Se debe pasar por su hombro, no por su cuello.
+  - La correa inferior debe ir sobre los huesos de la cadera, no sobre el estómago.
+  - No lo pase por debajo del brazo.
+
+### Bola de aire (Airbag)
+  El airbag del pasajero puede ser peligroso para niños mejores de 13 años. Este debe ser desactivado en caso de que se necesite transportar a un menor sin asientos traseros.
+
+### Apoyacabezas
+  Brinda soporte y protección al cuello y a la cabeza de los ocupantes en caso de un impacto.
+
+### Sistema de Retención Infantil (SRI)
+  - **Portabebé**: de 0 a 1 año. Debe colocarse viendo hacia atrás. No lo coloque en un asiento con bolsa de aire. Preferiblemente en el centro del asiento trasero.
+  - **Silla**: de 1 a 4 años. Colocar en dirección a la circulación (de frente). Si hay dos niños, el de menor pero se coloca al centro, el otro detrás del acompañante.
+  - **Asiento con respaldar**: de 4 a 6 años. Colocar en asiento trasero, preferiblemente en uno de los laterales.
+  - **Asiento sin respaldar**: de 6 a 12 años. El niño debe poder sentarse doblando las piernas con comodidad.
+
+# Capítulo VI
