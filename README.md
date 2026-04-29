@@ -507,4 +507,20 @@ Indica el modo de desplazamiento, como lo siguiente:
   - **Asiento con respaldar**: de 4 a 6 años. Colocar en asiento trasero, preferiblemente en uno de los laterales.
   - **Asiento sin respaldar**: de 6 a 12 años. El niño debe poder sentarse doblando las piernas con comodidad.
 
-# Capítulo VI
+# Capítulo VI: Normas y consecuencias en la Ley de Tránsito: Seguridad y Regulaciones.
+  Las multas se clasifican en cinco categorías:
+  - **Categoría A**: acumula 6 puntos.
+  - **Categoría B**: acumula 4 puntos.
+  - **Categoría C**: No acumula puntos.
+  - **Categoría D:** No acumula puntos.
+  - **Categoría E:** No acumula puntos.
+
+## Categoría A: 6 puntos
+  - **Conducción bajo influencia del alcohol:** _0,50g - 0,75g_ por litro se sangre y _0,25mg - 0,38mg_ en para cualquier conducto. _0,20g - 0,50g_ en sangre y _0,10mg y hasta 0,25mg_ en aire para conductores profesionales o con licencia menos de 3 años.
+  - **Exceso de velocidad**: circulación a más de 120km/h (excluyendo competencias ilegales)
+  - **Licencia suspendida**: conducir con licencia que haya o suspendida por infracciones a la ley.
+
+## Categoría B: 4 puntos
+  - **Uso de dispositivos de seguridad**: Conductor permite que menores de 12 años con estatura menor a 1,45m no utilicen dispositivos de seguridad.
+  - **Irrespeto a señales de alto**: Conductor ignora señale de alto, salvo excepciones del artículo 104.
+  - **Daño a dispositivos de alerta ferroviaria**: conductor daña la señal de alto en el derecho de la vía.
